@@ -2,5 +2,5 @@
 	"ip":"lepotatoguy.aternos.me",
 	"port": "25565",
 	"name": "botsp",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
